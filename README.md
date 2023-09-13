@@ -1,5 +1,5 @@
 # USBankFailures
-Analyzing the Bank Failures in the US from 1980-2023.
+Analyzing the Bank Failures in the US from 1980-2023.  The site used for the sourcing: https://banks.data.fdic.gov/bankfind-suite/failures 
 
 ## Objective
 The main goal was to look at all the information regarding Bank closures in the US to determine what commonalities existed amongst the failed banks.  This included the location of the banks, size (Assets, Deposits and Estimated Losses), date of the failure, transaction type that was undertaken at failure and charter class.  This could help determine what risk factors to look for so that all stakeholders, including shareholders, employees, clients and regulators, will know the risks involved and what potential risk factors to look for at other financial institutions.
